@@ -1,0 +1,14 @@
+{
+    "regions": [
+        {
+            "title": "Primary Nav",
+            "height": 80,
+            "bgcolor": "rgba(0,0,0,0.6)"
+        },
+        {
+            "title": "Hero Carousel",
+            "height": 1000,
+            "bgcolor": "rgba(180,0,0,0.6)"
+        }
+    ]
+}
